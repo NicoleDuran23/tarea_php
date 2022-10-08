@@ -42,7 +42,7 @@
         }
     }
     if($_SESSION['sesion_exito']<>1){
-        header('Location:login.php');
+        header('Location:index.php');
     }
     ?>
     <div class="container">
