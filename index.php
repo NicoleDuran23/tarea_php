@@ -65,7 +65,7 @@
                         <img src="usfa.png" class="img-circle" width="150" height="150">
                         <br><br><br>
 
-                        <form class="form-inline" action="login.php" method="POST" name="login_usu">
+                        <form class="form-inline" action="login.php" method="POST" name="login">
                             <div class="form-group">
                                 <label for="usuario">USUARIO</label>
                                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
