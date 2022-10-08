@@ -42,7 +42,7 @@
         }
     }
     if($_SESSION['sesion_exito']<>1){
-        header('Location:login_usu.php');
+        header('Location:login.php');
     }
     ?>
     <div class="container">
@@ -60,13 +60,7 @@
                                 <h3><strong>BIENVENIDO</strong></h3>
                                 <img src="usfa.png" class="img-circle" width="150" height="150">
                                 <br><br><br>
-                                <!---<form class="form-inline" action="home_usu.php" method="POST" name="lista_usu">
-                                    
-                                <a class="btn btn-info" href="modificar_cuenta.php" role="button" name="btn_modificar_cuenta">MODIFICAR CUENTA</a></p>
-                                     <!---<a class="btn btn-info" href="reservas.php" role="button" name="btn_reservas">RESERVAS</a></p>
-                                     <a class="btn btn-info" href="compras.php" role="button" name="btn_compras">COMPRAS</a></p>
-                                     <a class="btn btn btn-danger" href="index.php" role="button" name="btn_login">SALIR</a></p>
-                                </form>-->
+                               
                             </center>
         </div>
     </div>
