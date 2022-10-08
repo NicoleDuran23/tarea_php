@@ -21,7 +21,6 @@
     <div class="container">
                 <div class="row">
                     <div class="col-md-2"></div>
-                    <div class="col-md-8"><font color="#000"><center><strong><h1>LOGIN</h3></center></font></div>
                     <div class="col-md-2"></div>
                 </div>
         <hr>
